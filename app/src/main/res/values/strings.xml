@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstProject</string>
+    <string name="nama">Muhammad Fadli</string>
+    <string name="alamat">Kp.Babakan Cisarua rt/rw 001/012 Kecamatan Cipanas Kabupaten Cianjur</string>
+    <string name="hello_word">Hello Word</string>
+</resources>
